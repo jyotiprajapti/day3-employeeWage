@@ -22,6 +22,7 @@ public class EmployeeWage {
 		 int partTimeHour = 4;
 		 int partimeWage = (partTimeWage*partTimeHour);
 		 System.out.println("Part time wage is  " + partimeWage);
+<<<<<<< HEAD
 		 
 		 switch(atndc) {
 		 case 0:
@@ -32,5 +33,7 @@ public class EmployeeWage {
 			 break;
 		 }
 		 
+=======
+>>>>>>> master
   }
 }
