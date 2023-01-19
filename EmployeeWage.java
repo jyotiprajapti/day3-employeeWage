@@ -22,7 +22,7 @@ public class EmployeeWage {
 		 int partTimeHour = 4;
 		 int partimeWage = (partTimeWage*partTimeHour);
 		 System.out.println("Part time wage is  " + partimeWage);
-<<<<<<< HEAD
+
 		 
 		 switch(atndc) {
 		 case 0:
@@ -33,7 +33,8 @@ public class EmployeeWage {
 			 break;
 		 }
 		 
-=======
->>>>>>> master
+		 int workingDayMonth = 20;
+		 int wageInMonth = (workingDayMonth*dailyWage);
+		 System.out.println("Wage in a month is  " + wageInMonth);
   }
 }
